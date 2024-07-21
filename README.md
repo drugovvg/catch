@@ -8,6 +8,11 @@ If you're eager to see the final result, I've already uploaded everything to the
 - **Demo admin:**  http://birdwatcherconf.australiacentral.cloudapp.azure.com/admin/ (admin : 0zXN8w6x1Absa[Ak)
 - **Android App:** [app-debug.apk](docs/_assets/app-debug.apk) (yes, you have to ignore all the warning during the installation)
 
+## Solution and Estimations
+
+- [Solution](docs/1-solution.md)
+- [Estimations](docs/2-deliery-estimate-and-timeline.md)
+
 ## Web Part installation
 I use SilverStripe 5,so the prerequisites are PHP>=8.1,<=8.3 and MySQL>=5.6. More details:
 https://docs.silverstripe.org/en/5/getting_started/server_requirements/
