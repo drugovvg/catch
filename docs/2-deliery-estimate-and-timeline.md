@@ -23,7 +23,7 @@
 Total: 3.2h
 
 # Timeline
-![img_.png](_assets\gantt.png)
+![img_.png](_assets/gantt.png)
 
 # Assumptions
 The main assumption for the estimation is that the developers have already set up an environment for mobile and web development. For example, to build mobile applications, you will need to install special software, and for debugging and testing, you will need the mobile devices themselves.
