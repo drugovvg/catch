@@ -1,5 +1,5 @@
 # High-Level Design
-![hld.png](_assets\hld.png)
+![hld.png](docs\_assets\hld.png)
 Considering the small task scope and time constraints, the primary strategy will be to maximise the use of ready-made, proven solutions and ease of implementation.
 
 As a basis, I decided to take Silverstripe, which runs on the LAMP stack, has many plugins, and is widely used by digital studios and e-commerce. Plus, an essential component in the choice is that I have a lot of hands-on experience in it.
