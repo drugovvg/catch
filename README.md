@@ -6,7 +6,7 @@ For the task, I came up with the "Bird Watching Conference 2024" event. Accordin
 If you're eager to see the final result, I've already uploaded everything to the cloud and created the Android file (assuming you have an Android smartphone):
 - **Demo website:**  http://birdwatcherconf.australiacentral.cloudapp.azure.com/
 - **Demo admin:**  http://birdwatcherconf.australiacentral.cloudapp.azure.com/admin/ (admin : 0zXN8w6x1Absa[Ak)
-- **Android App:** [app-debug.apk](_assets/app-debug.apk) (yes, you have to ignore all the warning during the installation)
+- **Android App:** [app-debug.apk](docs/_assets/app-debug.apk) (yes, you have to ignore all the warning during the installation)
 
 ## Web Part installation
 I use SilverStripe 5,so the prerequisites are PHP>=8.1,<=8.3 and MySQL>=5.6. More details:
