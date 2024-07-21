@@ -1,5 +1,5 @@
 Hello, Catch team!
-I appreciate the enjoyable technical task. I am looking forward to your feedback.
+I appreciate the enjoyable technical task and I am looking forward to your feedback.
 
 For the task, I came up with the "Bird Watching Conference 2024" event. Accordingly, the Lead form collects data from those interested in attending the event.
 
