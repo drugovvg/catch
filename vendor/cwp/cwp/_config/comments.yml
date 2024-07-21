@@ -1,8 +1,0 @@
----
-Name: cwpcommentingextensions
-Only:
-  moduleexists: silverstripe/comments
----
-SilverStripe\Comments\Controllers\CommentingController:
-  extensions:
-    - CWP\CWP\Extensions\CwpCommentingExtension

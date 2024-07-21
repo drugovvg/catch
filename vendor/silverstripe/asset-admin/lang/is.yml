@@ -1,3 +1,0 @@
-is:
-  SilverStripe\AssetAdmin\Forms\FolderFormFactory:
-    FOLDERNAME: 'Nafn möppu'

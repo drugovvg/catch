@@ -1,8 +1,0 @@
-da:
-  SilverStripe\SessionManager\Extensions\MemberExtension:
-    DEVICES: 'Autentificerede enheder'
-    LEARN_MORE: 'Læs mere'
-  SilverStripe\SessionManager\Jobs\GarbageCollectionJob:
-    TITLE: 'Session manager affaldsindsamling'
-  SilverStripe\SessionManager\Models\LoginSession:
-    PLURALNAME: 'Login sessioner'

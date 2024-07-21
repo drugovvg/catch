@@ -1,3 +1,0 @@
-da:
-  SilverStripe\Taxonomy\TaxonomyTerm:
-    belongs_many_many_Pages: Sider

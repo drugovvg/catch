@@ -1,3 +1,0 @@
-fr:
-  SilverStripe\SessionManager\Extensions\MemberExtension:
-    DEVICES: 'Appareils authentifiés'

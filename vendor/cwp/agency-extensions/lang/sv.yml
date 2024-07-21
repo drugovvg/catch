@@ -1,7 +1,0 @@
-sv:
-  CWP\AgencyExtensions\Extensions\CWPSiteConfigExtension:
-    FooterLogoField: 'Sidfots-logotyp, för användning i sidfoten'
-    FooterLogoLinkDesc: 'Vänligen ange protokollet (t ex http:// eller http://) om länken inte är intern'
-    LogosIconsTab: Logotyper/ikoner
-  CwpCarousel:
-    LinkField: Länk

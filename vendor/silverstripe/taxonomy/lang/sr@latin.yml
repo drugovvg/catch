@@ -1,6 +1,0 @@
-sr@latin:
-  SilverStripe\Taxonomy\TaxonomyTerm:
-    db_Name: Ime
-    has_one_Parent: Roditelj
-  SilverStripe\Taxonomy\TaxonomyType:
-    db_Name: Ime

@@ -1,8 +1,0 @@
----
-Name: auditor-session-manager
-Only:
-  moduleexists: silverstripe/session-manager
----
-SilverStripe\SessionManager\Control\LoginSessionController:
-  extensions:
-    - SilverStripe\Auditor\AuditHookSessionManager

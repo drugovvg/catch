@@ -1,4 +1,0 @@
-de_DE:
-  SilverStripe\Taxonomy\TaxonomyTerm:
-    belongs_many_many_Pages: Seiten
-    has_one_Type: Typ

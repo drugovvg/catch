@@ -1,5 +1,0 @@
-id_ID:
-  SilverStripe\Taxonomy\TaxonomyTerm:
-    db_Name: Nama
-  SilverStripe\Taxonomy\TaxonomyType:
-    db_Name: Nama

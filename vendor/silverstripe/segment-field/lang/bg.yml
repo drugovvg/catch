@@ -1,5 +1,0 @@
-bg:
-  SilverStripe\Forms\SegmentField:
-    Cancel: Отказ
-    Edit: Редактиране
-    OK: Запис

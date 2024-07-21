@@ -1,4 +1,0 @@
-en_US:
-  SilverStripe\UserForms\Model\Recipient\EmailRecipient:
-    PLURALNAME: 'User Defined Form Email Recipients'
-    SINGULARNAME: 'User Defined Form Email Recipient'

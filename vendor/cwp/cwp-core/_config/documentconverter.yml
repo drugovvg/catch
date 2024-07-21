@@ -1,9 +1,0 @@
----
-Name: cwpdocumentconverterconfig
-Only:
-  moduleexists: silverstripe/documentconverter
-  EnvVarSet: DOCVERT_USERNAME
----
-Page:
-  extensions:
-    - SilverStripe\DocumentConverter\PageExtension

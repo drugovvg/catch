@@ -1,5 +1,0 @@
-sl:
-  SilverStripe\Forms\SegmentField:
-    Cancel: Prekliči
-    Edit: Uredi
-    OK: Shrani

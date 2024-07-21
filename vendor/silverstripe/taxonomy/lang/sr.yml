@@ -1,6 +1,0 @@
-sr:
-  SilverStripe\Taxonomy\TaxonomyTerm:
-    belongs_many_many_Pages: Странице
-    db_Name: Име
-  SilverStripe\Taxonomy\TaxonomyType:
-    db_Name: Име
