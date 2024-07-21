@@ -33,6 +33,8 @@ SS_DEFAULT_ADMIN_USERNAME="admin"
 SS_DEFAULT_ADMIN_PASSWORD="admin"
 ```
 4. Import the mysqldump _birdwatcherconf_web/birdwatcherconf_dump.zip_ into your MySQL DB
+5. Update or add your email for receiving submission forms through the CMS admin:
+![img_3.png](docs/_assets/img_3.png)
 
 ## App Part installation
 
